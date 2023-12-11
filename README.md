@@ -1,2 +1,4 @@
 # OMnyuji
-This iis the booststrap 5  simple website
+This iis the bootstrap 5  simple website
+
+HAPPY Coding!
